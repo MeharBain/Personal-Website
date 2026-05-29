@@ -20,7 +20,7 @@ export function About() {
             Then COVID happened. While the world locked down, I found myself glued to markets — GameStop squeezes, the NFT boom, stimulus-driven rallies. It was chaotic, fascinating, and completely addictive. That&apos;s when I decided to leave a science track behind and go all-in on finance.
           </p>
           <p className="reveal reveal-delay-4" style={{ marginBottom: '1.5rem' }}>
-            Since then I&apos;ve tried to learn by doing — four internships across PE, investment banking, political research, and fintech; leading a 70-member team to run one of my university&apos;s largest economics conclaves; and spending my free time on long treks and the occasional bungee jump. If it scares me a little, I&apos;m probably interested.
+            Since then I&apos;ve tried to learn by doing — four internships across PE, investment banking, political research, and data analytics; leading a 70-member team to run one of my university&apos;s largest economics conclaves; and spending my free time on long treks and the occasional bungee jump. If it scares me a little, I&apos;m probably interested.
           </p>
           <div className="divider-line reveal" style={{ margin: '2rem 0' }} />
           <div className="reveal reveal-delay-5" style={{
@@ -29,7 +29,7 @@ export function About() {
           }}>
             <p style={{ margin: 0, fontSize: '0.9rem' }}>
               <strong style={{ color: 'var(--gold)' }}>Current Status:</strong>{' '}
-              Currently wrapping up a six-month Private Equity internship at Bain &amp; Company&apos;s BCN PEG Americas team, finishing my undergraduate degree, and actively looking for full-time opportunities in PE, IB, and strategy.
+              Currently wrapping up a six-month Private Equity internship at Bain &amp; Company&apos;s BCN Private Equity Group (Americas) team, studying for my CFA Level 1, and actively looking for full-time opportunities in PE, IB, and strategy.
             </p>
           </div>
         </div>
