@@ -28,7 +28,7 @@ export function Projects() {
           <p style={{ fontSize: '0.93rem', color: 'rgba(240,237,230,0.75)', lineHeight: 1.75, marginBottom: '1.5rem' }}>
             A data-driven investment thesis recommending a BUY on silver, forecasting 25% upside driven by industrial demand tailwinds, structural supply deficits, and macro hedging dynamics (April 25, 2025).
           </p>
-          <a href="/silver-research-report.pdf" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ fontSize: '0.75rem', padding: '11px 22px', textDecoration: 'none' }}>Read the Thesis</a>
+          <a href="/4047500 Silver Research Report.pdf" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ fontSize: '0.75rem', padding: '11px 22px', textDecoration: 'none' }}>Read the Thesis</a>
         </div>
       </div>
     </section>
