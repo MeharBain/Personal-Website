@@ -2,7 +2,7 @@
 
 const education = [
   { school: 'Shiv Nadar Institute of Eminence', degree: 'B.Sc. (Research) Economics & Finance', period: '2022 – 2026', score: 'CGPA 7.95' },
-  { school: 'IIT Madras', degree: 'B.S. Data Science & Programming (Foundational)', period: '2022-2024', score: 'GPA 7.88' },
+  { school: 'IIT Madras (Online Degree)', degree: 'B.S. Data Science & Programming (Foundational)', period: '2022-2024', score: 'GPA 7.88' },
   { school: 'Somerville School, Noida', degree: 'Class XII & X', period: 'Completed', score: 'XII: 90.6% · X: 95.6%' },
 ]
 
